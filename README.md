@@ -1,0 +1,1 @@
+-- Rodar: npm install e o node_modules será recriado automaticamente.
